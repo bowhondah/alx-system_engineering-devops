@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -cl | tr -d " \n")
+Cut -C l | paste -s -d ''
